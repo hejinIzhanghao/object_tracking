@@ -1,4 +1,4 @@
-# object_tracking
+# Object Tracking
 
 ## Benchmark 
 - https://github.com/votchallenge/vot-toolkit
