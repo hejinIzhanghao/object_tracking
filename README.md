@@ -8,13 +8,13 @@ visual tracker benchmark results
 -https://github.com/HEscop/TBCF
 Tracking Benchmark for Correlation Filters
 
-## correlation filer
+## Correlation Filer
 - https://github.com/rockkingjy/OpenTracker
 OpenTracker. Real-time C++ ECO tracker etc. speed-up by SSE/NEON, support Linux, Mac, Jetson TX1/2, raspberry pi
 - https://github.com/martin-danelljan/ECO
 ECO. Matlab implementation of the ECO tracker.
 
-## edge tracking
+## Edge Tracking
 - https://github.com/NathanUA/Edge-based-Salient-Boundary-Tracking
 Real-time salient closed boundary tracking using perceptual grouping and shape priors (BMVC 2017)
 
@@ -42,4 +42,4 @@ Multiple objects tracker using openCV and dlib
 - https://github.com/hariharsubramanyam/ObjectTracker
 Multiple object tracking with a fixed, overhead camera using background subtraction and Kalman filters
 
-## deep learning
+## Deep Learning
