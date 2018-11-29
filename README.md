@@ -22,7 +22,7 @@ Real-time salient closed boundary tracking using perceptual grouping and shape p
 - https://github.com/yuxng/MDP_Tracking
 Learning to Track: Online Multi-Object Tracking by Decision Making
 
-# MOT
+## MOT
 - https://github.com/huanglianghua/mot-papers
 Papers
 - https://github.com/samuelmurray/tracking-by-detection
