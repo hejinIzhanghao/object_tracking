@@ -42,4 +42,15 @@ Multiple objects tracker using openCV and dlib
 - https://github.com/hariharsubramanyam/ObjectTracker
 Multiple object tracking with a fixed, overhead camera using background subtraction and Kalman filters
 
+## MHT
+- https://github.com/jonatanolofsson/mht
+Python implementation of the Multiple Hypothesis Tracking algorithm. An implementation of the Multiple Hypothesis Tracking filter, implemented for educational purposes and for the purpose of the article ''Spatially Indexed Clustering for Scalable Tracking of Remotely Sensed Drift Ice'. n particular, this implementation studies the use of Spatial Indexing in the MHT clustering process.
+- https://github.com/jonperdomo/openmht
+Python module for multiple hypothesis tracking. Based on the article "Multiple Hypothesis Tracking Revisited"
+- https://github.com/MetricCV/mht
+Matlab and python implementation of MHT
+- https://github.com/WeatherGod/MHT
+C implementation of MHT.
+
+
 ## Deep Learning
