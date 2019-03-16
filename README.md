@@ -18,11 +18,9 @@ ECO. Matlab implementation of the ECO tracker.
 - https://github.com/NathanUA/Edge-based-Salient-Boundary-Tracking
 Real-time salient closed boundary tracking using perceptual grouping and shape priors (BMVC 2017)
 
-## MDP
-- https://github.com/yuxng/MDP_Tracking
-Learning to Track: Online Multi-Object Tracking by Decision Making
-
 ## MOT
+- https://github.com/ExtremeMart/multi-object-tracking-paper-list
+Paper list and source code for multi-object-tracking 
 - https://github.com/huanglianghua/mot-papers
 Papers
 - https://github.com/samuelmurray/tracking-by-detection
@@ -39,6 +37,8 @@ A C/C++ implementation of pedestrian detection and tracking." Online Multiperson
 Multiple objects tracker using openCV and dlib
 - https://github.com/hariharsubramanyam/ObjectTracker
 Multiple object tracking with a fixed, overhead camera using background subtraction and Kalman filters
+- https://github.com/yuxng/MDP_Tracking
+codes of MDP. "Learning to Track: Online Multi-Object Tracking by Decision Making"
 
 ## MHT
 - https://github.com/jonatanolofsson/mht
