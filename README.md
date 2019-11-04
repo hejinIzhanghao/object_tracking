@@ -43,7 +43,8 @@ Multiple objects tracker using openCV and dlib
 Multiple object tracking with a fixed, overhead camera using background subtraction and Kalman filters
 - https://github.com/yuxng/MDP_Tracking
 codes of MDP. "Learning to Track: Online Multi-Object Tracking by Decision Making"
-
+- https://github.com/utkarshtandon/GMCP-Tracker-Python-Implementation
+This human tracking algorithm is a Python implementation of the paper "GMCP-Tracker: Global Multi-object Tracking Using Generalized Minimum Clique Graphs"
 ## MHT
 - https://github.com/jonatanolofsson/mht
 Python implementation of the Multiple Hypothesis Tracking algorithm. An implementation of the Multiple Hypothesis Tracking filter, implemented for educational purposes and for the purpose of the article ''Spatially Indexed Clustering for Scalable Tracking of Remotely Sensed Drift Ice'. n particular, this implementation studies the use of Spatial Indexing in the MHT clustering process.
