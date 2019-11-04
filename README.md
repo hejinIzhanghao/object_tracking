@@ -13,6 +13,10 @@ Tracking Benchmark for Correlation Filters
 OpenTracker. Real-time C++ ECO tracker etc. speed-up by SSE/NEON, support Linux, Mac, Jetson TX1/2, raspberry pi
 - https://github.com/martin-danelljan/ECO
 ECO. Matlab implementation of the ECO tracker.
+- https://github.com/shenjianbing/Occlusion-aware-real-time-object-tracking-
+This MATLAB code is an implementation of the occlusion aware visual tracking method proposed in "Occlusion-aware real-time object tracking"
+- https://github.com/xgniu/Context-based-Occlusion-Detection-Tracking
+This is the code for “Context-based occlusion detection for robust visual tracking” 
 
 ## Edge Tracking
 - https://github.com/NathanUA/Edge-based-Salient-Boundary-Tracking
