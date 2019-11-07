@@ -54,6 +54,9 @@ Python module for multiple hypothesis tracking. Based on the article "Multiple H
 Matlab and python implementation of MHT
 - https://github.com/WeatherGod/MHT
 C implementation of MHT.
-
-
+## PHD
+- https://github.com/blefaudeux/gmphd
+c++ implementation of a Gaussian-Mixtures Probability Hypothesis Density (GM-PHD) filter for multitarget tracking in a bayesian framework 
+- https://github.com/danstowell/gmphd
+GM-PHD filter implementation in python (Gaussian mixture probability hypothesis density filter) 
 ## Deep Learning
