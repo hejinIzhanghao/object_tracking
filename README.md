@@ -22,10 +22,6 @@ This MATLAB code is an implementation of "Occlusion-aware real-time object track
 - https://github.com/xgniu/Context-based-Occlusion-Detection-Tracking
 A framework for detecting occlusion in visual tracking in "Context-based occlusion detection for robust visual tracking"
 
-## Edge Tracking
-- https://github.com/NathanUA/Edge-based-Salient-Boundary-Tracking
-Real-time salient closed boundary tracking using perceptual grouping and shape priors (BMVC 2017)
-
 ## MOT
 - https://github.com/ExtremeMart/multi-object-tracking-paper-list
 Paper list and source code for multi-object-tracking 
