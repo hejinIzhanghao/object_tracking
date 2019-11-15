@@ -5,7 +5,7 @@
 VOT. Visual Object Tracking (VOT) challenge evaluation toolkit
 - https://github.com/foolwood/benchmark_results
 visual tracker benchmark results
--https://github.com/HEscop/TBCF
+- https://github.com/HEscop/TBCF
 Tracking Benchmark for Correlation Filters
 
 ## Correlation Filer
@@ -21,6 +21,10 @@ This is the code for “Context-based occlusion detection for robust visual trac
 This MATLAB code is an implementation of "Occlusion-aware real-time object tracking"
 - https://github.com/xgniu/Context-based-Occlusion-Detection-Tracking
 A framework for detecting occlusion in visual tracking in "Context-based occlusion detection for robust visual tracking"
+
+## mean shift
+- https://github.com/vojirt/asms
+This C++ code implements a tracking pipeline of Scale Adaptive Mean-Shift method.
 
 ## MOT
 - https://github.com/ExtremeMart/multi-object-tracking-paper-list
