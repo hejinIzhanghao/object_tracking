@@ -22,9 +22,13 @@ This MATLAB code is an implementation of "Occlusion-aware real-time object track
 - https://github.com/xgniu/Context-based-Occlusion-Detection-Tracking
 A framework for detecting occlusion in visual tracking in "Context-based occlusion detection for robust visual tracking"
 
-## mean shift
+## Mean Shift
 - https://github.com/vojirt/asms
 This C++ code implements a tracking pipeline of Scale Adaptive Mean-Shift method.
+
+## Optical Flow
+- https://github.com/tikroeger/OF_DIS
+Fast Optical Flow using Dense Inverse Search (DIS). also in opencv.
 
 ## MOT
 - https://github.com/ExtremeMart/multi-object-tracking-paper-list
