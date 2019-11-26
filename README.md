@@ -7,6 +7,8 @@ VOT. Visual Object Tracking (VOT) challenge evaluation toolkit
 visual tracker benchmark results
 - https://github.com/HEscop/TBCF
 Tracking Benchmark for Correlation Filters
+- https://github.com/oxuva/long-term-tracking-benchmark
+Long-term Tracking in the Wild: A Benchmark
 
 ## Correlation Filer
 - https://github.com/rockkingjy/OpenTracker
@@ -70,3 +72,19 @@ GM-PHD filter implementation in python (Gaussian mixture probability hypothesis 
 ## Deep Learning
 - https://github.com/bertinetto/cfnet
 Training a Correlation Filter end-to-end allows lightweight networks of 2 layers (600 kB) to high performance at fast speed [CVPR'17] http://www.robots.ox.ac.uk/~luca/cfnet.html
+- https://github.com/bertinetto/siamese-fc
+Arbitrary object tracking at 50-100 FPS with Fully Convolutional Siamese networks.
+- https://github.com/foolwood/DCFNet
+DCFNet: Discriminant Correlation Filters Network for Visual Tracking 
+- https://github.com/foolwood/SiamMask
+Fast Online Object Tracking and Segmentation: A Unifying Approach [CVPR2019] 
+- https://github.com/foolwood/DaSiamRPN
+Distractor-aware Siamese Networks for Visual Object Tracking [ECCV2018]
+- https://github.com/torrvision/siamfc-tf
+SiamFC tracking in TensorFlow.
+- https://github.com/unsky/siameseNet
+siamese net on caffe using own data
+- https://github.com/JKozerawski/siamese-network
+Implementation of Siamese Neural Network in Caffe 
+- https://github.com/ptran/siamese-network-ex
+dlib implementation of Siamese Network Training with Caffe 
