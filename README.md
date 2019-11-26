@@ -70,6 +70,8 @@ c++ implementation of a Gaussian-Mixtures Probability Hypothesis Density (GM-PHD
 - https://github.com/danstowell/gmphd
 GM-PHD filter implementation in python (Gaussian mixture probability hypothesis density filter) 
 ## Deep Learning
+- https://github.com/STVIR/pysot
+SenseTime Research platform for single object tracking, implementing algorithms like SiamRPN and SiamMask. 
 - https://github.com/bertinetto/cfnet
 Training a Correlation Filter end-to-end allows lightweight networks of 2 layers (600 kB) to high performance at fast speed [CVPR'17] http://www.robots.ox.ac.uk/~luca/cfnet.html
 - https://github.com/bertinetto/siamese-fc
