@@ -90,3 +90,5 @@ siamese net on caffe using own data
 Implementation of Siamese Neural Network in Caffe 
 - https://github.com/ptran/siamese-network-ex
 dlib implementation of Siamese Network Training with Caffe 
+- https://github.com/researchmm/SiamDW
+Deeper and Wider Siamese Networks for Real-Time Visual Tracking
