@@ -9,6 +9,8 @@ visual tracker benchmark results
 Tracking Benchmark for Correlation Filters
 - https://github.com/oxuva/long-term-tracking-benchmark
 Long-term Tracking in the Wild: A Benchmark
+- https://github.com/visionml/pytracking
+Visual tracking library based on PyTorch. A general python framework for training and running visual object trackers, based on PyTorch.
 
 ## Correlation Filer
 - https://github.com/rockkingjy/OpenTracker
@@ -23,6 +25,7 @@ This is the code for “Context-based occlusion detection for robust visual trac
 This MATLAB code is an implementation of "Occlusion-aware real-time object tracking"
 - https://github.com/xgniu/Context-based-Occlusion-Detection-Tracking
 A framework for detecting occlusion in visual tracking in "Context-based occlusion detection for robust visual tracking"
+
 
 ## Mean Shift
 - https://github.com/vojirt/asms
